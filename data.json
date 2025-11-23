@@ -1,0 +1,380 @@
+[
+  {
+    "nome": "Roblox",
+    "descricao": "Roblox é uma plataforma de jogos online e um sistema de criação de jogos que permite aos usuários programar e jogar jogos criados por outros usuários. [1]",
+    "data_criacao": "2006",
+    "imagem": "https://images.rbxcdn.com/c83761712c58384892d63501cad3a1ee",
+    "link": "https://www.roblox.com/",
+    "tags": [
+      "Sandbox",
+      "MMO",
+      "Criação de Jogos",
+      "Multiplataforma"
+    ]
+  },
+  {
+    "nome": "Cyberpunk 2077",
+    "descricao": "Cyberpunk 2077 é um RPG de ação e aventura em mundo aberto ambientado na megalópole de Night City, onde você joga como um mercenário cyberpunk. [7, 13]",
+    "data_criacao": "2020",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfca-2nnGgbz-T3VVPiReIWFS26Z16Fb1ofg&s",
+    "link": "https://www.cyberpunk.net/",
+    "tags": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Sci-Fi",
+      "Cyberpunk"
+    ]
+  },
+  {
+    "nome": "Need for Speed Heat",
+    "descricao": "Corra de dia e arrisque tudo à noite em Need for Speed Heat, um jogo de corrida de rua onde os limites da lei desaparecem quando o sol se põe. [5, 11]",
+    "data_criacao": "2019",
+    "imagem": "https://i.ytimg.com/vi/9ewiJJe_nYI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCoNIjBmgVu4jJQtQghSCy57YitOg",
+    "link": "https://www.ea.com/games/need-for-speed/need-for-speed-heat",
+    "tags": [
+      "Corrida",
+      "Mundo Aberto",
+      "Arcade",
+      "Customização"
+    ]
+  },
+  {
+    "nome": "Watch Dogs 2",
+    "descricao": "Jogue como Marcus Holloway, um jovem hacker brilhante, e junte-se ao notório grupo de hackers DedSec para executar o maior hack da história. [8, 9]",
+    "data_criacao": "2016",
+    "imagem": "https://cdn1.epicgames.com/angelonia/offer/WD2-STD-Capsule-1920x1080-2a2ed8c8265ab31156be8ab48a93dc212d5c7095.jpg",
+    "link": "https://www.ubisoft.com/pt-br/game/watch-dogs/watch-dogs-2",
+    "tags": [
+      "Ação-Aventura",
+      "Mundo Aberto",
+      "Hacking",
+      "Stealth"
+    ]
+  },
+  {
+    "nome": "Elden Ring",
+    "descricao": "Um RPG de ação em mundo aberto aclamado pela crítica, conhecido por sua alta dificuldade, design de mundo expansivo e combate refinado.",
+    "data_criacao": "2022",
+    "imagem": "https://sm.ign.com/ign_br/screenshot/default/elden-ring-imagem-principal-sajscyx_gz35.jpg",
+    "link": "https://www.eldenring.jp/",
+    "tags": [
+      "Action RPG",
+      "FromSoftware",
+      "Console PC",
+      "Avaliação 97"
+    ]
+  },
+  {
+    "nome": "Hades",
+    "descricao": "Um roguelite de ação rápido onde o jogador assume o papel de Zagreus, tentando escapar do Submundo grego.",
+    "data_criacao": "2020",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg",
+    "link": "https://www.supergiantgames.com/games/hades",
+    "tags": [
+      "Indie Game",
+      "Roguelite",
+      "Multiplataforma",
+      "Narrativa Forte"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: Tears of the Kingdom",
+    "descricao": "Sequência direta de Breath of the Wild, expandindo o mapa de Hyrule para incluir ilhas flutuantes e novos poderes de construção.",
+    "data_criacao": "2023",
+    "imagem": "https://zeldacentral.com/wp-content/uploads/2025/03/Tears-of-the-Kingdom-wallpaper-1024x576.jpg.webp",
+    "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000063714/e05943959997089e8220649436a1240f0552b12344804c82b0478b311350a84d",
+    "link": "https://www.zelda.com/tears-of-the-kingdom/",
+    "tags": [
+      "Open World",
+      "Aventura",
+      "Nintendo Switch",
+      "AAA Exclusivo"
+    ]
+  },
+  {
+    "nome": "Stardew Valley",
+    "descricao": "Um RPG de simulação de fazenda e vida, onde o jogador herda a fazenda decadente do avô em Pelican Town.",
+    "data_criacao": "2016",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFB9fnVCdF97mxaVJ27-aoj77wuBoyclbS-hfcSq9sBMz3y38OsTxTp2nh5v_kBSP6x0&usqp=CAU",
+    "link": "https://www.stardewvalley.net/",
+    "tags": [
+      "Simulação de Vida",
+      "Indie Clássico",
+      "Relaxante",
+      "Co-op"
+    ]
+  },
+  {
+    "nome": "Valorant",
+    "descricao": "Um shooter tático 5v5 baseado em personagens, que combina jogabilidade de tiro de precisão com habilidades únicas de agentes.",
+    "data_criacao": "2020",
+    "imagem": "https://www.riotgames.com/darkroom/1440/8d5c497da1c2eeec8cffa99b01abc64b:5329ca773963a5b739e98e715957ab39/ps-f2p-val-console-launch-16x9.jpg",
+    "link": "https://playvalorant.com/",
+    "tags": [
+      "FPS Tático",
+      "PC",
+      "Free-to-Play",
+      "Esports"
+    ]
+  },
+  {
+    "nome": "Apex Legends",
+    "descricao": "Um battle royale gratuito de esquadrões, ambientado no universo Titanfall, famoso por seu sistema de comunicação e movimentos rápidos.",
+    "data_criacao": "2019",
+    "imagem": "https://cdn2.unrealengine.com/apex-legends-interview-epic-games-store-s20-launch-heirloom-3840x2160-7e5be0990453.png",
+    "link": "https://www.ea.com/games/apex-legends",
+    "tags": [
+      "Battle Royale",
+      "Console PC",
+      "Serviço Vivo",
+      "FPS"
+    ]
+  },
+  {
+    "nome": "God of War Ragnarök",
+    "descricao": "A épica continuação da saga nórdica de Kratos e Atreus, explorando os Nove Reinos e enfrentando o Ragnarök.",
+    "data_criacao": "2022",
+    "imagem": "https://s.zst.com.br/cms-assets/2024/08/capa-god-of-war-ragnarok-kratos-atreus.webp",
+    "link": "https://www.playstation.com/games/god-of-war-ragnarok/",
+    "tags": [
+      "Action-Adventure",
+      "PS5 Exclusivo",
+      "Narrativa Cinematográfica",
+      "AAA"
+    ]
+  },
+  {
+    "nome": "Disco Elysium",
+    "descricao": "Um RPG de detetive onde você joga como um policial amnésico. Extremamente focado em diálogo e construção de personalidade.",
+    "data_criacao": "2019",
+    "imagem": "https://sm.ign.com/t/ign_za/video/d/disco-elys/disco-elysium-the-final-cut-review_2zpu.1280.jpg",
+    "link": "https://discoelysium.com/",
+    "tags": [
+      "Narrative RPG",
+      "Indie",
+      "Diálogos Profundos",
+      "PC Console"
+    ]
+  },
+  {
+    "nome": "Hollow Knight",
+    "descricao": "Um Metroidvania 2D aclamado, conhecido por seu combate responsivo, design de mapa interconectado e atmosfera melancólica.",
+    "data_criacao": "2017",
+    "imagem": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/7XWcd2Kg44o1IzyY1L7czyyS.png?w=440",
+    "link": "https://www.hollowknight.com/",
+    "tags": [
+      "Metroidvania",
+      "Plataforma",
+      "Indie Sucesso",
+      "Desafiador"
+    ]
+  },
+  {
+    "nome": "Resident Evil 4 Remake",
+    "descricao": "Uma reimaginação moderna e aterradora do clássico survival horror, aprimorando gráficos, jogabilidade e controles.",
+    "data_criacao": "2023",
+    "imagem": "https://t.ctcdn.com.br/hDtcsgIqWe5TvaTMw53ze-IPbWE=/1200x675/smart/i706956.jpeg",
+    "link": "https://www.residentevil.com/re4/br/",
+    "tags": [
+      "Survival Horror",
+      "Remake",
+      "Console PC",
+      "Terceira Pessoa"
+    ]
+  },
+  {
+    "nome": "Forza Horizon 5",
+    "descricao": "Um jogo de corrida arcade em mundo aberto ambientado em uma recriação vibrante e extensa do México.",
+    "data_criacao": "2021",
+    "imagem": "https://s2-techtudo.glbimg.com/b1J9QpkCa1W8HAE9yoDQaGFFu1A=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2025/J/v/Mod9oKQwKkKnVJ0Xnbpw/forza-horizon-5-playstation-5-ps5-4.jpg",
+    "link": "https://forzamotorsport.net/en-us/games/forza-horizon-5",
+    "tags": [
+      "Corrida",
+      "Mundo Aberto",
+      "Xbox Exclusivo",
+      "Gráficos Imersivos"
+    ]
+  },
+  {
+    "nome": "Metroid Dread",
+    "descricao": "Um retorno à jogabilidade 2D clássica de Metroid, focado em stealth, exploração e tensão constante contra os E.M.M.I.",
+    "data_criacao": "2021",
+    "imagem": "https://assets.nuuvem.com/image/upload/t_banner_big/v1/products/61489a98a3f8b119498f5bd8/banners/ucfamnl1for1lgmqadcn.jpg",
+    "link": "https://www.nintendo.com/store/products/metroid-dread-switch/",
+    "tags": [
+      "Ação 2D",
+      "Nintendo Switch",
+      "Plataforma",
+      "Exclusivo"
+    ]
+  },
+  {
+    "nome": "Baldur's Gate 3",
+    "descricao": "Um RPG massivo baseado em Dungeons & Dragons, utilizando combate tático por turnos e escolhas de história profundas.",
+    "data_criacao": "2023",
+    "imagem": "https://i.ytimg.com/vi/Yuy8nTyBbuw/maxresdefault.jpg",
+    "link": "https://baldursgate3.game/",
+    "tags": [
+      "CRPG",
+      "Tático por Turnos",
+      "PC PS5",
+      "Alta Rejogabilidade"
+    ]
+  },
+  {
+    "nome": "Starfield",
+    "descricao": "O primeiro universo novo da Bethesda em 25 anos, um épico RPG de ficção científica ambientado no espaço sideral.",
+    "data_criacao": "2023",
+    "imagem": "https://t2.tudocdn.net/682194?w=824&h=494",
+    "link": "https://bethesda.net/en/game/starfield",
+    "tags": [
+      "Sci-Fi RPG",
+      "Mundo Aberto",
+      "Xbox PC",
+      "Exploração Espacial"
+    ]
+  },
+  {
+    "nome": "Minecraft",
+    "descricao": "Um jogo sandbox de construção e sobrevivência, onde os jogadores exploram mundos gerados proceduralmente e criam estruturas.",
+    "data_criacao": "2011",
+    "imagem": "https://s2-techtudo.glbimg.com/teSQDUYwN9ZuGoFASqQJRLXfLWU=/0x0:620x349/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/F/L/6h8cWjR4W6IYgywE3SyA/2013-08-08-minecraft-pc-10-curiosidades.jpg",
+    "link": "https://www.minecraft.net/",
+    "tags": [
+      "Sandbox",
+      "Construção",
+      "Multiplataforma",
+      "Educacional"
+    ]
+  },
+  {
+    "nome": "League of Legends",
+    "descricao": "O MOBA mais popular do mundo, onde duas equipes de cinco campeões lutam para destruir o Nexus inimigo.",
+    "data_criacao": "2009",
+    "imagem": "https://gaming-cdn.com/images/products/9456/616x353/league-of-legends-pc-jogo-cover.jpg?v=1747212286",
+    "link": "https://www.leagueoflegends.com/",
+    "tags": [
+      "MOBA",
+      "PC",
+      "Free-to-Play",
+      "Esports Dominante"
+    ]
+  },
+  {
+    "nome": "Doom Eternal",
+    "descricao": "Um jogo de tiro em primeira pessoa ultra-rápido, conhecido por seu combate 'push-forward' e trilha sonora intensa.",
+    "data_criacao": "2020",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
+    "link": "https://bethesda.net/en/game/doom-eternal",
+    "tags": [
+      "FPS",
+      "Ação Rápida",
+      "Console PC",
+      "Música Metal"
+    ]
+  },
+  {
+    "nome": "Ghost of Tsushima",
+    "descricao": "Um jogo de ação e aventura ambientado no Japão feudal, onde um samurai luta para proteger sua ilha durante uma invasão mongol.",
+    "data_criacao": "2020",
+    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/FEhFbXbOMnlh1y8Mi9dPuJHQ.png",
+    "link": "https://www.suckerpunch.com/game/ghost-of-tsushima/",
+    "tags": [
+      "Samurai",
+      "Mundo Aberto",
+      "PS4 PS5",
+      "Combate Estiloso"
+    ]
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "descricao": "Um épico de faroeste com uma narrativa profunda e um mundo aberto detalhado, focado na vida de Arthur Morgan.",
+    "data_criacao": "2018",
+    "imagem": "https://s2-techtudo.glbimg.com/CjMYXMeWN558R9OA7MTmUoKl25g=/0x0:1500x500/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/U/0/AM86SwT7iK8yRB4M8FmQ/rdr2-rdr2-twitter.jpg",
+    "link": "https://www.rockstargames.com/reddeadredemption2",
+    "tags": [
+      "Aventura",
+      "Faroeste",
+      "Console PC",
+      "Alta Fidelidade"
+    ]
+  },
+  {
+    "nome": "Persona 5 Royal",
+    "descricao": "Um JRPG com elementos de simulação social, onde um grupo de estudantes se torna 'Phantom Thieves' para roubar corações corrompidos.",
+    "data_criacao": "2020",
+    "imagem": "https://psblog.com.br/wp-content/uploads/2025/01/Persona-5-Royal-750x430.jpg",
+    "link": "https://atlus.com/persona5r/",
+    "tags": [
+      "JRPG",
+      "Turnos",
+      "Estilo Anime",
+      "Narrativa Longa"
+    ]
+  },
+  {
+    "nome": "Sea of Thieves",
+    "descricao": "Um jogo multiplayer de aventura pirata em mundo compartilhado, onde os jogadores navegam, buscam tesouros e enfrentam outros navios.",
+    "data_criacao": "2018",
+    "imagem": "https://rare-assets.azureedge.net/assets/28/b0/28b0b92c-6f07-418b-b746-ebb6cc20fbd4.jpg?n=hero_desktop.jpg",
+    "link": "https://www.seaofthieves.com/",
+    "tags": [
+      "Multiplayer",
+      "Pirata",
+      "Xbox PC",
+      "Serviço Vivo"
+    ]
+  },
+  {
+    "nome": "Ori and the Will of the Wisps",
+    "descricao": "Um jogo de plataforma e aventura visualmente deslumbrante, focado em mecânicas de movimento fluidas e uma história emocionante.",
+    "data_criacao": "2020",
+    "imagem": "https://sm.ign.com/ign_br/blogroll/o/ori-and-th/ori-and-the-will-of-the-wisps-review_p3z5.jpg",
+    "link": "https://www.orithegame.com/",
+    "tags": [
+      "Plataforma",
+      "Indie",
+      "Metroidvania",
+      "Direção de Arte"
+    ]
+  },
+  {
+    "nome": "Animal Crossing: New Horizons",
+    "descricao": "Um simulador de vida relaxante onde o jogador constrói uma comunidade em uma ilha deserta.",
+    "data_criacao": "2020",
+    "imagem": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22935650/Switch_ACNH_ND20211015_Update_SCRN_09.jpg",
+    "link": "https://www.animal-crossing.com/new-horizons/",
+    "tags": [
+      "Simulação Social",
+      "Nintendo Switch",
+      "Casual",
+      "Lançamento Crítico"
+    ]
+  },
+  {
+    "nome": "Final Fantasy XVI",
+    "descricao": "O décimo sexto título principal da série Final Fantasy, focado em combate de ação em tempo real e um tom mais sombrio.",
+    "data_criacao": "2023",
+    "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1009/oehAww2ytCqKnxk12h74Hx7y.jpg",
+    "link": "https://na.finalfantasyxvi.com/",
+    "tags": [
+      "Action RPG",
+      "PS5 Exclusivo Temporário",
+      "Alta Fantasia",
+      "Combate em Tempo Real"
+    ]
+  },
+  {
+    "nome": "Rocket League",
+    "descricao": "Um jogo de esportes veiculares que combina futebol com carros movidos a foguetes em partidas rápidas e acrobáticas.",
+    "data_criacao": "2015",
+    "imagem": "https://noticias.maisesports.com.br/wp-content/uploads/2020/07/rocket-league-wallpaper-115-1920x1080-1.jpg",
+    "link": "https://www.rocketleague.com/",
+    "tags": [
+      "Esportes Arcade",
+      "Free-to-Play",
+      "Competitivo",
+      "Multiplataforma"
+    ]
+  }
+]
